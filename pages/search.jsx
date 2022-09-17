@@ -76,7 +76,7 @@ export default function search(props) {
             <div className="form-group flex flex-col md:flex-row items-center gap-4 md:gap-12 relative w-full">
               <Link href="/" passHref>
                 <a href="#" className="text-2xl font-semibold text-orange-400">
-                  Gatot Kaca
+                  Kominfo Search 
                 </a>
               </Link>
               <form
