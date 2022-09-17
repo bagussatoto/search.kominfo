@@ -5,14 +5,14 @@ import { useState } from 'react';
 export default function User() {
   const [isOpen, setIsOpen] = useState(false);
   const handleClick = () => {
-    window.location.href = 'https://bagusok.github.io/';
+    window.location.href = 'https://search-kominfo.vercel.app/';
   };
 
   return (
     <>
       <div className="user self-end place-self-end place-items-end text-end w-1/3 absolute top-3 right-4 md:sticky md:px-3 pt-1 hover:opacity-75">
         <Image
-          src="/Avatar.png"
+          src="/kominfo.png"
           width={40}
           height="40"
           onClick={() => setIsOpen(!isOpen)}
