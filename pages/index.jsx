@@ -44,7 +44,7 @@ export default function Home() {
         </nav>
         <div className="flex flex-col w-full items-center text-center gap-4 mt-[6rem]">
           <h1 className="text-3xl md:text-5xl font-semibold tracking-wide text-orange-400">
-            Gatot Kaca
+            Kominfo Search
           </h1>
           <div className="md:w-3/6 mt-8">
             <form onSubmit={(e) => handleSearch(e)}>
