@@ -69,7 +69,7 @@ export default function search(props) {
 
   return (
     <>
-      <HeadMeta title={q + ' | Gatotkaca Search'} />
+      <HeadMeta title={q + ' | Kominfo Search'} />
       <div className="min-h-screen flex flex-col justify-between px-3 py-6 md:px-[2rem]">
         <div>
           <div className="flex flex-col md:flex-row justify-between gap-6 text-center items-center  w-full">
