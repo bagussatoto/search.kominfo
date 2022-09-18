@@ -27,7 +27,7 @@ export default function User() {
               height="40"
               onClick={() => setIsOpen(!isOpen)}
             />
-            <h2 className="text-sm">Kominfo Tolol</h2>
+            <h2 className="text-sm">Kominfo</h2>
           </div>
           <div
             className="form-group flex flex-row gap-3 rounded-md hover:bg-yellow-400 p-2 items-center"
