@@ -17,7 +17,7 @@ export default function HeadMeta({ title }) {
         <meta property="og:title" content="Kominfo Search Engine" />
         <meta
           property="og:description"
-          content="KOminfo Search Engine adalah search engine search enginan yang katanya bisa bersaing dengan google. Nyatanya kita masih bergantung dengan google, bahkan kita pun mencari tutorial membuat search engine di google"
+          content="Kominfo Search Engine adalah search engine search enginan yang katanya bisa bersaing dengan google. Nyatanya kita masih bergantung dengan google, bahkan kita pun mencari tutorial membuat search engine di google"
         />
         <meta property="og:image" content="/yntkts.png" />
 
