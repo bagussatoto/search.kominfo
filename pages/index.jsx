@@ -54,7 +54,7 @@ export default function Home() {
                   className="h-12 w-full rounded-full px-[4rem] py-2 border border-slate-200 shadow-md focus:border-2 focus:border-slate-400 focus:outline-none"
                   onChange={(e) => setInput(e.target.value)}
                   value={input}
-                  placeholder="Yo Ndak Tau Kok Cari Saya..."
+                  placeholder="Cari Kominfo.."
                 />
                 <div className="icon z-50 w-fit text-2xl font-bold absolute left-5 top-auto bottom-3 text-slate-400">
                   <FiSearch />
