@@ -13,7 +13,7 @@ export default function HeadMeta({ title }) {
         />
 
         <meta property="og:type" content="website" />
-        <meta property="og:url" content="https://carigatotkaca.my.id/" />
+        <meta property="og:url" content="https://search-kominfo.vercel.app/" />
         <meta property="og:title" content="Kominfo Search Engine" />
         <meta
           property="og:description"
