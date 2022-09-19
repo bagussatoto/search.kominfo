@@ -30,13 +30,13 @@ export default function Home() {
         <nav className="flex justify-end px-3 py-2 h-16 md:min-h-8">
           <div className="flex h-full flex-row gap-3 items-center">
             <a href="#" className="text-sm font-normal hover:opacity-75">
-              GKMail
+              Gmail
             </a>
             <a
               href="#"
               className="text-sm font-normal hover:opacity-75 mr-12 mdmr-0"
             >
-              Gambar
+              Image
             </a>
 
             <User />
