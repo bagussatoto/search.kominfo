@@ -25,7 +25,7 @@ export default async function handler(req, res) {
   };
 
   let response = await fetch(
-    `https://gatotkaca-search.vercel.app/api/images?q=${searchQuery}&page=${page}`,
+    `https://search-kominfo.vercel.app/api/images?q=${searchQuery}&page=${page}`,
     {
       method: 'GET',
       headers: headersList,
