@@ -5,7 +5,7 @@ import { useState } from 'react';
 export default function User() {
   const [isOpen, setIsOpen] = useState(false);
   const handleClick = () => {
-    window.location.href = 'https://search-kominfo.vercel.app/';
+    window.location.href = 'https://kominfo-search.netlify.app/';
   };
 
   return (
