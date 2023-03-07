@@ -104,6 +104,9 @@ export default function search(props) {
             <a href="#" className="border-b-2 border-slate-500">
               Gambar
             </a>
+            <a href={`/news?q=${q}&page=1`} className="text-slate-400">
+              Berita
+            </a>
           </div>
           {isLoading ? (
             <img
