@@ -13,7 +13,7 @@ export default function HeadMeta({ title }) {
         />
 
         <meta property="og:type" content="website" />
-      <meta property="og:url" content="https://kominfo-search.netlify.app/" /> 
+      <meta property="og:url" content="https://carigatotkaca.my.id/" /> 
         <meta property="og:title" content="Kominfo Search Engine" />
         <meta
           property="og:description"
@@ -22,7 +22,7 @@ export default function HeadMeta({ title }) {
         <meta property="og:image" content="/yntkts.png" />
 
         <meta property="twitter:card" content="summary_large_image" />
-        <meta property="twitter:url" content="https://kominfo-search.netlify.app/" /> 
+        <meta property="twitter:url" content="https://carigatotkaca.my.id/" /> 
         <meta property="twitter:title" content="Kominfo Search Engine" />
         <meta
           property="twitter:description"
